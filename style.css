@@ -1,6 +1,7 @@
 body{
     font-family: 'Roboto', sans-serif;
     font-size: 22px;
+   
     
 }
 h1{
@@ -19,11 +20,6 @@ h1{
     font-weight: bolder;
     font-size: 22px;
     padding: 20px 10px;
-    
-
-   
-   
-     
 }
 .RDN{
     color:blueviolet;
@@ -32,13 +28,16 @@ p{
     font-size: 20px;
 }
 .Upper-Part{
+    height: 500px;
     width: 40%;
     float: left;
-    margin-left: 7%;
-    margin-top: 5%;
+    margin-left: 5%;
+    padding-left: 2%;
 }
 .Upper-Part img{
-    width: 80%;
+    width: 100%;
+    padding-top: 5%;
+     
     
 }
 .button{
@@ -54,18 +53,62 @@ h3{
     font-weight: 400px;
 }
 .Middle-Part{
+    height: 580px;
     width: 40%;
     float: left;
-    margin-left: 7%;
-    margin-top: 5%;
-     
+    margin-left: 5%;
+   padding-left: 2%;
+}
+.Middle-Part h3{
+    padding-top: 80px;
+}
+.Middle-Part p{
+    margin-top: 30px;
 }
 .Middle-Part img{
-    width: 80%;
+    width: 100%;
     
 }
-.Lower-Part{
-    background-color: blueviolet;
-    padding: 50px 20px;
+.Exp{
+    height: 1600px;
 }
+#LWP{
+    text-align: center;
+    margin-top: 500px;
+    height: 650px;
+    font-weight: bolder;
+}
+#L{
+    color: blueviolet;
+}
+.Lower-Part1{
+    height: 150px; 
+    width: 33%;
+    float: left;
+    
+}
+.Lower-Part1 img{
+    width: 80%;
+}
+.Lower-Part2{
+    height: 150px; 
+    width: 33%;
+    float: left;
+}
+.Lower-Part2 img{
+    width: 80%;
+}
+.Lower-Part3{
+    height: 150px; 
+    width: 33%;
+    float: left;
+}
+.Lower-Part3 img{
+    width: 80%;
+}
+.shadow{
+    box-shadow: 10px 10px 40px black;
+}
+
+
  
