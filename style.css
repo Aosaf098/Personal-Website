@@ -6,6 +6,25 @@ body{
 h1{
     font-weight: bold;
 }
+.navbar{
+    text-align: right;
+    margin-top: 50px;
+    margin-right: 80px;
+
+
+}
+.navbar a{
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+    font-size: 22px;
+    padding: 20px 10px;
+    
+
+   
+   
+     
+}
 .RDN{
     color:blueviolet;
 }
@@ -19,7 +38,8 @@ p{
     margin-top: 5%;
 }
 .Upper-Part img{
-    width: 100%;
+    width: 80%;
+    
 }
 .button{
     text-decoration: none;
@@ -38,7 +58,14 @@ h3{
     float: left;
     margin-left: 7%;
     margin-top: 5%;
+     
 }
 .Middle-Part img{
-    width: 100%;
+    width: 80%;
+    
 }
+.Lower-Part{
+    background-color: blueviolet;
+    padding: 50px 20px;
+}
+ 
